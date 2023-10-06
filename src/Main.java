@@ -1,5 +1,3 @@
-import java.util.function.Function;
-
 public class Main {
     public static void main(String[] args) {
         Child1 child1 = new Child1();
